@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Android's Heart"
-datePublished: '2016-06-01T11:06:12.726Z'
-dateModified: '2016-06-01T11:06:05.755Z'
+datePublished: '2016-06-01T12:15:18.847Z'
+dateModified: '2016-06-01T11:24:13.928Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-01-androids-heart.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-01-androids-heart.md
 url: androids-heart/index.html
 _type: Article
 

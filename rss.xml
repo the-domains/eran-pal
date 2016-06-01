@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Eran Pal ]]></title>
-        <description><![CDATA[Eran Pal ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Eran Pal make up artist am hair stylist]]></title>
+        <description><![CDATA[Eran Pal make up artist am hair stylist]]></description>
+        <link>https://thegrid.ai/eran-pal/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 11:06:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 01 Jun 2016 12:15:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eran-pal/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f71799ea-7b16-4df8-8e29-f9336cfd664b.jpg">]]></description>
-            <link>undefinedandroids-heart/index.html</link>
+            <link>https://thegrid.ai/eran-pal/androids-heart/index.html</link>
             <guid isPermaLink="false">338d8882-13be-47ab-a573-faa42c459a61</guid>
-            <pubDate>Wed, 01 Jun 2016 11:06:12 GMT</pubDate>
+            <pubDate>Wed, 01 Jun 2016 12:15:18 GMT</pubDate>
         </item>
     </channel>
 </rss>

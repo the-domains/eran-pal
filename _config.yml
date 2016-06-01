@@ -1,0 +1,28 @@
+name: 'Eran Pal '
+favicon: null
+layout_spectrum: 0.04696575878188014
+typography_spectrum: 0.5471183424815536
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.29591053002513945
+  lightness: 0.19934553746134043
+  saturation: 0.19639827078208327
+  rhythmicContrast: 0.07244937377981842
+purpose: []
